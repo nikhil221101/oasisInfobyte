@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size:34px;
+    height: 65px;
+    width: 415px;
+    border: none;
+    margin-bottom: 5px;
+}
+
+button{
+    font-size: 40px;
+    background: #F05454;
+    width: 102px;
+    height: 90px;
+    border: none;
+}
+button:hover{
+  color: #fff;
+}
+
+.calculator{
+    background-color: #2F3A8F;
+    padding: 8px;
+    display: inline-block;
+
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}

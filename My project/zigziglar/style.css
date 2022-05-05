@@ -1,0 +1,72 @@
+h1{
+  color: #fff;
+  font-size: 30px;
+  padding-right: 120px;
+  font-family: 'Poppins',sans-serif;
+}
+p{
+  color: #fff;
+  padding-right: 120px;
+}
+.quotes{
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+  color: #FE7E6D;
+}
+#title{
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  background-image: url('images/zigziglar.jpeg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 250px;
+  text-align: right;
+}
+#Bio{
+  background-color: #FE7E6D;
+}
+h2,h5{
+  text-align: center;
+}
+h2{
+  padding-top: none;
+  font-size: 50px;
+  color: #FFF;
+}
+h5{
+  font-size: 30px;
+  margin-top: 0;
+  padding-top: 20px;
+  color: #FFF;
+}
+.zigimg{
+  height: 500px;
+  width: 375px;
+  margin-left: 550px;
+}
+.text{
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 50px;
+}
+.fam{
+  color: #2F3A8F;
+  text-align: center;
+  margin-top: 0;
+}
+.z10{
+  color: #2F3A8F;
+  padding-left: 50px;
+}
+.zz{
+  color: #111;
+  padding-left: 50px;
+  font-size: 17px;
+}
+.black{
+  color: #304545;
+  padding-left: 100px;
+}
